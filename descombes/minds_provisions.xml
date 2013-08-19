@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<review>
+  <bib type="book">
+    <title>The Mind's Provisions:  A Critique of Cognitivism</title>
+    <author><ln>Descombes</ln><fn>Vincent</fn></author>
+    <year>2001</year>
+    <pub>Princeton University Press</pub>
+    <place>Princeton, NJ</place>
+    <translator>Stephen Adam Schwartz</translator>
+    <original lang="fr">
+      <title>Aux origines des science cognitives</title>
+      <year>1994</year>
+      <pub>La Decouverte</pub>
+      <place>Paris</place>
+    </original>
+  </bib>
+
+  <toc>
+    <chapter serial="1" p="1">
+      <t>The Phenomena of Mind</t>
+      <section serial="1.1">
+	<summary>What is the place of the mental in the world?  Common
+	sense cannot decide: in ordinary usage, the adjective
+	<dq>mental</dq> does not apply only to the subject's immanent
+	activities, but may also be used to qualify anything dependent
+	on intellectual competence <emdash/> a book, for example,
+	which is a mental commodity.</summary>
+      </section>
+    </chapter>
+    <chapter serial="2" pg="30">
+      <t>Two Sciences?</t>
+    </chapter>
+    <chapter serial="3" pg="47">
+      <t>The Anthropological Investigation of the Mind</t>
+    </chapter>
+    <chapter serial="4" pg="66">
+      <t>The New Mental Philosophy</t>
+    </chapter>
+    <chapter serial="5" pg="84">
+      <t>The Doctrines of Psychical Materialism</t>
+    </chapter>
+    <chapter serial="6" pg="108">
+      <t>The Psychology of Computers</t>
+    </chapter>
+    <chapter serial="7" pg="135">
+      <t>The Inside and the Outside</t>
+    </chapter>
+    <chapter serial="8" pg="164">
+      <t>Mechanical Mind</t>
+    </chapter>
+    <chapter serial="9" pg="189">
+      <t>Cerebroscopic Exercises</t>
+    </chapter>
+    <chapter serial="10" pg="200">
+      <t>The Metaphysics of Mental States</t>
+    </chapter>
+    <chapter serial="11" pg="212">
+      <t>The Detachment of the Mind</t>
+    </chapter>
+    <chapter serial="12" pg="224">
+      <t>The Historical Conditions of Meaning</t>
+    </chapter>
+    
+  </toc>
+
+
+</review>

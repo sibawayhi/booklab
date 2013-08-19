@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<review>
+  <bib type="book">
+    <title>Philosophy and the Mirror of Nature</title>
+    <author><ln>Rorty</ln><fn>Richard</fn></author>
+    <year></year>
+    <pub></pub>
+    <place></place>
+  </bib>
+
+  <toc>
+    <chapter serial="1" pg="">
+      <t></t>
+    </chapter>
+  </toc>
+
+
+</review>
